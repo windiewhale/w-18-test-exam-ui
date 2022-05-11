@@ -1,7 +1,5 @@
 import React from 'react';
 import Navbar from './components/Navbar';
-import Button from './components/Button';
-import Beercard from './components/Beercard';
 import Cardcontainer from './components/Cardcontainer';
 
 /* const theme = createTheme({
